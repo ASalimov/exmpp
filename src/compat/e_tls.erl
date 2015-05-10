@@ -27,7 +27,7 @@
 %% @doc
 %% This <strong>{@module}</strong> module is for compatibility with ejabberd.
 
--module(tls).
+-module(e_tls).
 -author('alexey@process-one.net').
 
 -export([start/0, start_link/0,
